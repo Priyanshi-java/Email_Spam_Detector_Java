@@ -47,3 +47,12 @@ Result : SPAM
 Spam Score : 90%
 =====================================
 
+=====================================
+Date : 2026-06-28T19:14:52.975948600
+Date : Sun Jun 28 19:14:52 IST 2026
+Subject : win free iPhone
+Message : click here to claim your prize.
+Result : SPAM
+Spam Score : 90%
+=====================================
+

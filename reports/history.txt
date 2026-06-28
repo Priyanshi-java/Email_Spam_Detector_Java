@@ -28,3 +28,9 @@ Message : click here to your win free prize now.
 Status  : SPAM
 ====================================
 
+====================================
+Subject : win free iPhone
+Message : click here to claim your prize.
+Status  : SPAM
+====================================
+
